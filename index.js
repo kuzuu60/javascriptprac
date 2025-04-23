@@ -1,0 +1,4 @@
+require('./syntax/index')
+require('./variables/index')
+require('./const/index')
+require('./functions/index')
