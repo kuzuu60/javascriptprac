@@ -3,4 +3,5 @@
 // require('./const/index')
 // require('./functions/index')
 // require('./objects/index')
-require('./events/index')
+// require('./events/index')
+require('./strings/index')
